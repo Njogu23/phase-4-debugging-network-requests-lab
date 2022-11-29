@@ -63,11 +63,21 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
+    1.Checked browser console for error message.
+    2.Followed error to server log.
+    3.Followed error message to the specific place.
 
 - Update the number of likes for a toy
 
   - How I debugged:
+   1.Confirmed funcionality on frontend.
+   2.Checked browser console for error message.
+   3.Followed error to server log and traced the error.
 
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+    1.Confirmed funcionality on frontend.
+   2.Checked browser console for error message.
+   3.Followed error to server log and traced the error.
+
